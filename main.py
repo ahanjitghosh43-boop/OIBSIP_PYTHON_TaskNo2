@@ -781,7 +781,7 @@ result_label.pack(pady=(5, 15))
 
 footer = tk.Label(
     window,
-    text="Developed by Ahanjit Ghosh",
+    text="Developed by Ahanjit Ghosh © 2026",
     font=("Arial", 9)
 )
 
